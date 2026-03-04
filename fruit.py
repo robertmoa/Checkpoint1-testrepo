@@ -1,4 +1,3 @@
 def favourite_fruits():
-	return[]
-print("Hello")
-
+	fruits = ["peach","nectarine]
+	return fruits
